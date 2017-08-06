@@ -1,0 +1,15 @@
+{
+"resources":
+        [
+            {"name":"jiekouzi","type":"sheet","url":"assets/jiekouzi.json"},
+            {"name":"jiekouzi_swf","type":"json","url":"assets/jiekouzi_swf.json"},
+            { "name":"barbright","type":"image", "url":"assets/barbright.png"},
+            { "name":"bardark","type":"image", "url":"assets/bardark.png"}
+        ],
+
+"groups":
+	[
+        {"name":"preload","keys":"barbright,bardark"},
+        {"name":"MainFile","keys":"jiekouzi,jiekouzi_swf"}
+	]
+}

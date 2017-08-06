@@ -1,0 +1,21 @@
+var game_file_list = [
+    "starlingswf/display/SwfSprite.js",
+    "starlingswf/SwfAssetManager.js",
+    "starlingswf/SwfUpdateManager.js",
+    "starlingswf/display/SwfMovieClip.js",
+    "LoadingUI.js",
+    "starlingswf/Swf.js",
+    "Main.js",
+    "tool/vision/Vision.js",
+    "GameMain.js",
+    "Game.js",
+    "GameNum.js",
+    "checkpoint/GameCheckpoint.js",
+    "gameJiemian.js",
+    "gameSound/SoundManage.js",
+    "xuanguanshu_mc.js",
+    "GameView.js",
+    "element/GameBall.js",
+    "element/GameLine.js",
+    "arithmetic/gameArithmetic.js"
+];
